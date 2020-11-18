@@ -11,6 +11,8 @@ namespace FirstApp
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World");
+            
+            Console.WriteLine("Hello Jenkins");
             Console.Read();
         }
     }
